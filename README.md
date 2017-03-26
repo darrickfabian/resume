@@ -21,3 +21,32 @@ Work alongside UX, Visual Design, and Back-end production teams to deliver engag
 * Assisted in managing project pipeline and assigning developer resources.
 
 * Built full front-end implementations as well as banner, and HTML email campaigns.
+
+#### Xigo - Web Designer
+##### 2000 - 2001
+
+* Produced HTML4 code from creative mock-ups.
+
+* Used practices such as spacer gifs, and font tags, to achieve display.
+
+* Learned the CLI along with CVS for version control.
+
+### Education
+
+#### Academy of Art University - Associates of Arts, New Media Design
+##### 2002 - 2006
+
+* Focus on digital media and emerging technologies.
+
+* Digital design, User Interface, Digital Photography, Motion Graphics, Typography, Package Design, Digital Illustration
+
+
+### Skills & Tools
+
+HTML, CSS, SCSS, Javascript, jQuery, Web Animation, Core UX, Twitter Bootstrap, Zurb Foundation, Web Typography, ADA Compliance, Design Principles, CMS Environments, Project Scaffolds
+
+Photoshop, Sketch, Git, SVN, Gulp, Grunt, NPM, Bower, Yeoman, JIRA, Basecamp, BrowserStack, MS Office, Agile & Waterfall Methodologies
+
+### Personal
+
+Loves dogs. All dogs.
