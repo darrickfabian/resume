@@ -1,26 +1,40 @@
 # résumé
 
-### Objective
-Work alongside UX, Visual Design, and Back-end production teams to deliver engaging web experiences.
+### Profile
+I am a proficient Front-end Developer with over 15 years of expertise in delivering highquality
+websites and applications using front-end technologies. I am now seeking to
+transition into a Technical Business Analyst role within a web/digital team. With my strong
+communication and analytical abilities, as well as my experience in Agile methodologies, I
+am confident in my ability to excel in this new role.
+
+### Skills
+* Front-end Development: Proficient in HTML, CSS, JavaScript , and other front-end
+technologies.
+
+* Communication: Strong communication skills, both written and verbal, with the ability to effectively communicate with team members, stakeholders, and clients.
+
+* Experience in Agile development methodologies, such as Scrum or Kanban, with a solid understanding of Agile principles and practices.
+
+* Business Analysis: Solid understanding of business analysis concepts, including requirements gathering, process analysis, and documentation.
+
+* Quality Assurance: Attention to detail and commitment to delivering high-quality work, adhering to coding standards, accessibility guidelines, and best practices.
+
+* Project Management: Sound understanding of project management principles, including planning, execution, monitoring, and control.
 
 ### Experience
 
-#### Epsilon/SolutionSet - Co-Manager/Front-end Developer
-##### 2007 - 2017
+#### Hero Digital - Front-end Developer - 2017—2023,
+##### Epsilon/SolutionSet - Front-end Developer - 2007—2017
 
-* Built web experiences of varying size and complexity for multiple Fortune 500 clients using industry-standard HTML5, CSS3, SCSS, and jQuery, both as a sole developer, and as a member of larger project teams.
+* Produced industry-standard front-end code on multiple projects across numerous web properties.
 
-* Managed five direct reports to help navigate their careers within the company, provide guidance, and resolve potential issues.
+* Worked directly with clients and stakeholders to achieve desired project results.
 
-* Participated in client calls and in-person meetings to achieve desired project results.
+* Helped direct project front-end strategy and functionality.
 
-* Worked with design, UX, and back-end development teams to communicate technical capabilities, and to develop front-end strategy and functionality for projects.
+* Communicated front-end technical capabilities.
 
-* Reviewed client requirements and assisted in scoping and estimating level of effort for front-end development on projects.
-
-* Assisted in managing project pipeline and assigning developer resources.
-
-* Built full front-end implementations as well as banner, and HTML email campaigns.
+* Assisted in project scoping and effort estimates.
 
 #### Xigo - Web Designer
 ##### 2000 - 2001
@@ -40,13 +54,6 @@ Work alongside UX, Visual Design, and Back-end production teams to deliver engag
 
 * Digital design, User Interface, Digital Photography, Motion Graphics, Typography, Package Design, Digital Illustration
 
-
-### Skills & Tools
-
-HTML, CSS, SCSS, Javascript, jQuery, Web Animation, Core UX, Twitter Bootstrap, Zurb Foundation, Web Typography, ADA Compliance, Design Principles, CMS Environments, Project Scaffolds
-
-Photoshop, Sketch, Git, SVN, Gulp, Grunt, NPM, Bower, Yeoman, JIRA, Basecamp, BrowserStack, MS Office, Agile & Waterfall Methodologies
-
 ### Personal
 
-Loves dogs. All dogs.
+In the San Francisco Bay Area
